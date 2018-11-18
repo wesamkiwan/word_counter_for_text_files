@@ -1,6 +1,6 @@
 import operator
 
-y = open(r"C:\Users\wesam\Desktop\test_file.txt")
+y = open(r"Pathof the file here")
 text = y.read()
 y.close()
 
